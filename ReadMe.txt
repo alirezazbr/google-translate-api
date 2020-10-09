@@ -2,7 +2,7 @@ Run the code like this:
 
 open terminal and type like this :
 
-npm server.js your-json-address-in-your-computer choose-yourlanguages
+node server.js your-json-address-in-your-computer choose-yourlanguages
 
 
 for example: 
